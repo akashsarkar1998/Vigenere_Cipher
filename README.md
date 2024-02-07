@@ -9,7 +9,7 @@ The Vigenere cipher can be used for secure communication by encrypting plaintext
 2. For scenarios where a simple encryption method is sufficient, such as encrypting personal notes, passwords, or small pieces of data, the Vigenère cipher can serve as a lightweight encryption solution  
 3. Overall, while the Vigenère cipher may not provide the same level of security as modern cryptographic algorithms, it remains a valuable tool for learning cryptography concepts and for applications where lightweight encryption is acceptable.
 
-####Here a example of the code:
+#### Here a example of the code:
 ```python
 text = 'password'
 custom_key = 'strongpassword'

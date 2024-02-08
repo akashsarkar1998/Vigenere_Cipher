@@ -43,7 +43,3 @@ print(f'Key: {custom_key}')
 # Decrypt the encrypted text using the key and print the result
 decryption = decrypt(text, custom_key)
 print(f'\nDecrypted text: {decryption}\n')
-
-
-#  https://www.freecodecamp.org/learn/scientific-computing-with-python/
- #learn-string-manipulation-by-building-a-cipher 
